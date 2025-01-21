@@ -1,2 +1,2 @@
 # Game
-Game for (X-O) 2 Players
+## Game for (X-O) 2 Players
