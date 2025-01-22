@@ -43,7 +43,7 @@ class Player:
                 print("error reenter ")            
 class Menu:
     def display_menu(self):
-        print("welcome to my game :")
+        print("welcome to my game ::")
         print("1-start game " )
         print("2-end game  ")
         while True:
